@@ -1,0 +1,8 @@
+type Mutation {
+  createPost(caption: String!, description: String!, userId: ID!): createPost!
+}
+
+type Query {
+  getAllPost: [Post]!
+  getPost(id: ID!): Post!
+}

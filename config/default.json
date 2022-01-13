@@ -1,0 +1,4 @@
+{
+  "port": 8000,
+  "db_url": "mongodb+srv://<username>:<password>@sandbox.ejy8i.mongodb.net/graphqlDatabase?retryWrites=true&w=majority"
+}

@@ -1,0 +1,37 @@
+type User {
+  _id: ID!
+  firstname: String!
+  lastname: String!
+  email: String!
+  age: String!
+  createdAt: Date
+  updatedAt: Date
+}
+
+type Post {
+  _id: ID!
+  caption: String!
+  description: String!
+  userId: ID!
+  createdAt: Date
+  updatedAt: Date
+}
+
+type updateUser {
+  message: String!
+  user: User
+}
+
+type deleteUser {
+  message: String!
+}
+
+type login {
+  message: String
+  user: User
+}
+
+type createPost {
+  message: String!
+  post: Post!
+}
