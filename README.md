@@ -14,8 +14,8 @@ Basic CRUD operations in NodeJS, MongoDB, GraphQL using apollo and express serve
     - LinkedIn - https://www.linkedin.com/in/neerajkumar161/
     - Gmail - ennkay161@gmail.com
     - Twitter - https://twitter.com/ennkay161
-6. Also, don't forget to follow my github profile. Thank you. 
+Also, don't forget to follow my github profile. Thank you. Happy Coding :)
+Medium Blog link - https://medium.com/@ennkay161/simple-crud-operations-in-nodejs-express-graphql-mongodb-with-apolloserver-in-typescript-78fd95a80c4b
 
-Happy Coding :)
 
 
